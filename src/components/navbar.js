@@ -17,7 +17,7 @@ const NavBar = () => {
             <section className="flex justify-between items-center">
 
                 <div className="">
-                    <a href="/" className={`md:text-3xl py-3 text-2xl no-underline align-bottom inline-block font-bold uppercase tracking-widest ${pageTheme === 'darkmode' ? 'text-white' : 'text-black'}`}>Oladokun</a>
+                    <a href="/" className={`md:text-3xl py-3 text-2xl no-underline align-bottom inline-block font-bold uppercase tracking-widest ${pageTheme === 'darkmode' ? 'text-white' : 'text-black'}`}>Ridwan</a>
                 </div>
 
                 <div className="flex items-center">
