@@ -72,7 +72,7 @@ const Projects = () => {
         },
         {
             name: 'Portfolio Application',
-            url: 'https://portfolio-72sp2pmb3-oladokuns-projects-6f3cbdb5.vercel.app/',
+            url: 'https://portfolio-blstn78sj-oladokuns-projects-6f3cbdb5.vercel.app/',
             description: 'Built a standout portfolio with React.js, HTML5, and CSS for an engaging user experience.',
             image: require('../../asset/portfolio.png')
         },
